@@ -15,8 +15,8 @@ List of all group members and their respective contributions are mentioned below
 
 | Name of Student     | Registration Number | Role / Work Done                                                                                           |
 |----------------------|---------------------|-------------------------------------------------------------------------------------------------------------|
-| ** Om Rakhade **     | 2024BIT503             | Developed backend logic, implemented model training and dataset integration, and managed overall structure. |
-| **Vishal Barde **       | 2024BIT508             | Implemented frontend in Streamlit, created real-time visualization modules, and designed interactive UI.    |
+| **Om Rakhade**     | 2024BIT503             | Developed backend logic, implemented model training and dataset integration, and managed overall structure. |
+| **Vishal Barde**       | 2024BIT508             | Implemented frontend in Streamlit, created real-time visualization modules, and designed interactive UI.    |
 | **Ramprasad Londhe** | 2024BIT509              | Worked on UI/UX design, testing, documentation, and visual metrics module integration.                      |
 | **All Members**      |                     | Testing, debugging, optimization, documentation, and final presentation.                                    |
 
