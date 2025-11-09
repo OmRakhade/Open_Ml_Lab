@@ -5,7 +5,7 @@ Built using **Python**, **Streamlit**, and **scikit-learn**, this project helps 
 ---
 
 ## 1. Project Title
-**Interactive ML Training Platform**
+**Open ML Lab**
 
 ---
 
